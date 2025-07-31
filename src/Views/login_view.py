@@ -60,3 +60,4 @@ class LoginScreen(Screen):
     def go_to_register(self, instance):
         # Cambia a la pantalla de registro
         self.manager.current = 'register'
+#

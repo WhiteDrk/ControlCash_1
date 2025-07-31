@@ -59,3 +59,4 @@ class RegisterScreen(Screen):
     def go_to_login(self, instance):
         # Regresar a la pantalla de login
         self.manager.current = 'login'
+#
