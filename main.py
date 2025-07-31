@@ -4,7 +4,7 @@ from kivy.uix.screenmanager import ScreenManager
 # Importamos las pantallas (vistas)
 from src.Views.login_view import LoginScreen
 from src.Views.registro_view import RegisterScreen
-from src.Views.Home import HomeScreen
+#from src.Views.Home import HomeScreen
 
 
 # Clase principal de la aplicación
