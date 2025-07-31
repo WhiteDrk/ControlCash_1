@@ -16,3 +16,4 @@ def obtener_notificaciones(usuario_id):
     resultado = cursor.fetchall()
     conn.close()
     return resultado
+
